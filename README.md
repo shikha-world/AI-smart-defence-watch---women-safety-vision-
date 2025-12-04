@@ -101,3 +101,27 @@ class HomeScreen extends StatelessWidget {
     );
   }
 }
+┌─────────────────────────┐
+│    🛡️ SAFETY WATCH      │
+│                         │
+│      ┌─────────┐        │
+│      │   SOS   │        │
+│      │  BUTTON │        │
+│      └─────────┘        │
+│                         │
+│  📍 GPS  🎤 Mic  🎬 Cam │
+└─────────────────────────┘
+         ↓
+┌─────────────────────────┐
+│     MOBILE APP          │
+│  Live Location Map      │
+│  Emergency Contacts     │
+│  Evidence Gallery       │
+└─────────────────────────┘
+         ↓
+┌─────────────────────────┐
+│     POLICE +            │
+│  EMERGENCY CONTACTS     │
+│  Get real-time alerts   │
+│  with location & audio  │
+└─────────────────────────┘
